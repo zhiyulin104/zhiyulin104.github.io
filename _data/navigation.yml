@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Categories"
+    url: /categories/
+  - title: "Archives"
+    url: /year-archive/
+  - title: "About"
+    url: /about/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+aiot camp:
+  - title: 機器人體驗營
+    children:
+      - title: "artecrobo的LED與直流馬達"
+        url: /aiot camp/artecrobo-led-dc-motor/
+
