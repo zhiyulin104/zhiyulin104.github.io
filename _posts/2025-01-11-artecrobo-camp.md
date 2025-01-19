@@ -1,5 +1,5 @@
 ---
-title:  "Artecrobo - LED與直流馬達"
+title:  "體驗營- LED與直流馬達"
 permalink: /aiot camp/artecrobo-led-dc-motor/
 excerpt: "利用聲音感測器控制LED的燈亮與燈滅，並且利用聲音的大小控制直流馬達驅動的速度。"
 header:
